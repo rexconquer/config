@@ -1,2 +1,8 @@
 name: 1ct
 age: 30
+
+turbine:
+  appConfig: orderapi,orderweb,orderwap
+  aggregator:
+    clusterConfig: default
+  clusterNameExpression: new String("default")
