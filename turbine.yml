@@ -1,3 +1,5 @@
+name: onecloudtech
+
 turbine:
   appConfig: orderapi,orderweb,orderwap
   aggregator:
